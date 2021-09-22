@@ -1,0 +1,166 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Volumes/MARK17/10.-UNITY/GameEspacial
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56445
+Successfully changed project path to: /Volumes/MARK17/10.-UNITY/GameEspacial
+/Volumes/MARK17/10.-UNITY/GameEspacial
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 65.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/MARK17/10.-UNITY/GameEspacial/Assets
+GfxDevice: creating device client; threaded=0
+2021-09-22 21:24:17.244 Unity[32932:1520625] Color LCD preferred device: AMD Radeon Pro 460 (high power)
+2021-09-22 21:24:17.244 Unity[32932:1520625] Metal devices available: 2
+2021-09-22 21:24:17.244 Unity[32932:1520625] 0: AMD Radeon Pro 460 (high power)
+2021-09-22 21:24:17.244 Unity[32932:1520625] 1: Intel(R) HD Graphics 530 (low power)
+2021-09-22 21:24:17.245 Unity[32932:1520625] Using device AMD Radeon Pro 460 (high power)
+Initializing Metal device caps: AMD Radeon Pro 460
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56932
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.10f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000821 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 55.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.147 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003183 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.744 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1952 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 154.2 MB.
+System memory in use after: 154.3 MB.
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 2358.
+Total: 6.713511 ms (FindLiveObjects: 0.245411 ms CreateObjectMapping: 0.087139 ms MarkObjects: 6.266087 ms  DeleteObjects: 0.113418 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/cuboCurrent.prefab
+  artifactKey: Guid(e07fda26fc39a4309a4b71dc49feb6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cuboCurrent.prefab using Guid(e07fda26fc39a4309a4b71dc49feb6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63721d1d167071ea48336bb8fa675dfe') in 1.327593 seconds
+  Import took 1.331930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Prefabs/Cube.prefab
+  artifactKey: Guid(a9c78c4fc92804f20a9f01173c687728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cube.prefab using Guid(a9c78c4fc92804f20a9f01173c687728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94f1bbea47dd8dd8a025e987713c7fb') in 0.017161 seconds
+  Import took 0.021284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Prefabs/BaldosaHermetica.prefab
+  artifactKey: Guid(bf9e8bf4b777e4c7284131371e53dcf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BaldosaHermetica.prefab using Guid(bf9e8bf4b777e4c7284131371e53dcf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a3fb0c1cb5bd75291eb0febb237af4') in 0.013415 seconds
+  Import took 0.018785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Prefabs/NewBaldosaHermetica.prefab
+  artifactKey: Guid(50cf35a8a639349a0985e7ef1f061ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NewBaldosaHermetica.prefab using Guid(50cf35a8a639349a0985e7ef1f061ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adb7d204401ec748b168d9ba92b8fe34') in 0.016434 seconds
+  Import took 0.020631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Prefabs/baldosaCurrent_x2.prefab
+  artifactKey: Guid(cdaad76e5c9a84c80b141a9eab07d8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/baldosaCurrent_x2.prefab using Guid(cdaad76e5c9a84c80b141a9eab07d8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c81e063050b22dae6be4f421776bebb') in 0.019747 seconds
+  Import took 0.023759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Prefabs/CubeEditor.prefab
+  artifactKey: Guid(e111df2199a3f423399315f879c5a62c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/CubeEditor.prefab using Guid(e111df2199a3f423399315f879c5a62c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce99fe7956b3ef720bceb0c18bee44d6') in 0.018359 seconds
+  Import took 0.022455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Prefabs/newBaldosa.prefab
+  artifactKey: Guid(36ea7bc7851d5445d8f9b1b8bbae27ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/newBaldosa.prefab using Guid(36ea7bc7851d5445d8f9b1b8bbae27ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecef212b1e2db2377ee8ef9cc588a848') in 0.016722 seconds
+  Import took 0.020948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Prefabs/cuboHabitaculo.prefab
+  artifactKey: Guid(527b5ab6538584b96809b4d607fe0a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cuboHabitaculo.prefab using Guid(527b5ab6538584b96809b4d607fe0a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9f2674c1cc175c14b3c854068c027e7') in 0.010539 seconds
+  Import took 0.015065 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 9.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 47 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.6 MB.
+System memory in use after: 125.7 MB.
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 2367.
+Total: 6.923457 ms (FindLiveObjects: 0.244441 ms CreateObjectMapping: 0.088152 ms MarkObjects: 6.548777 ms  DeleteObjects: 0.041033 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003024 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.520 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1946 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 162.4 MB.
+System memory in use after: 162.5 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 2370.
+Total: 7.649602 ms (FindLiveObjects: 0.251391 ms CreateObjectMapping: 0.095786 ms MarkObjects: 7.261778 ms  DeleteObjects: 0.039034 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
